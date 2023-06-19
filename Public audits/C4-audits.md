@@ -6,7 +6,7 @@
 | Forgeries  | [Admin can withdraw the NFT before the winner timelock ends](https://github.com/code-423n4/2022-12-forgeries-findings/issues/246) |
 | GoGoPool   | [First ERC4626 deposit can break share calculation](https://github.com/code-423n4/2022-12-gogopool-findings/issues/187) |
 | RabbitHole | [`onlyMinter()` modifier is not working as expected](https://github.com/code-423n4/2023-01-rabbithole-findings/issues/706) |
-| Popcorn    | [Reentrancy on `MultiRewardStaking.claimRewards()` when the rewardToken is an ERC777 token](https://github.com/code-423n4/2023-01-popcorn-findings/issues/486) |
+| Popcorn    | The report has not yet been made public |
 | Caviar     | [Integer overflow by unsafe casting](https://github.com/code-423n4/2023-04-caviar-findings/issues/1005) |
 
 #### Mediums findings
@@ -18,8 +18,8 @@
 | GoGoPool   | [Possible Dos in beforeWithdraw() due to underflow](https://github.com/code-423n4/2022-12-gogopool-findings/issues/340) |
 | GoGoPool   | [Rewards delay release could cause yields steal and loss](https://github.com/code-423n4/2022-12-gogopool-findings/issues/361) |
 | GoGoPool   | [Misleading comments - Multisig are still managing pool](https://github.com/code-423n4/2022-12-gogopool-findings/issues/893) |
-| Popcorn    | [ERC4626 does not work with fee-on-transfer tokens](https://github.com/code-423n4/2023-01-popcorn-findings/issues/846) |
-| Contest 225| [The lender can seize collateral before the lien is deafaulted](https://github.com/code-423n4/2023-03-contest225-findings/issues/88) |
+| Popcorn    | The report has not yet been made public |
+| Contest 225| The report has not yet been made public |
 
 #### QA reports
 
@@ -37,17 +37,17 @@
 | RabbitHole      | [RabbitHole QA](https://github.com/code-423n4/2023-01-rabbithole-findings/blob/main/data/btk-Q.md)          | grade-a     |
 | Numoen          | [Numoen QA](https://github.com/code-423n4/2023-01-numoen-findings/blob/main/data/btk-Q.md)                  | grade-a     |
 | Canto Identity  | [Canto Identity QA](https://github.com/code-423n4/2023-01-canto-identity-findings/blob/main/data/btk-Q.md)  | grade-b     |
-| Popcorn         | [Popcorn QA](https://github.com/code-423n4/2023-01-popcorn-findings/blob/main/data/btk-Q.md)                | grade-a     |
+| Popcorn         | The report has not yet been made public               | grade-a     |
 | Ethos Reserve   | [Ethos Reserve QA](https://github.com/code-423n4/2023-02-ethos-findings/blob/main/data/btk-Q.md)            | grade-b     |
 | Wenwin          | [Wenwin QA](https://github.com/code-423n4/2023-03-wenwin-findings/blob/main/data/btk-Q.md)                  | grade-b     |
 | Neo Tokyo       | [Neo Tokyo QA](https://github.com/code-423n4/2023-03-neotokyo-findings/blob/main/data/btk-Q.md)             | grade-a     |
-| Polynomial      | [Polynomial QA](https://github.com/code-423n4/2023-03-polynomial-findings/blob/main/data/btk-Q.md)          | grade-a     |
-| Asymmetry       | [Asymmetry QA](https://github.com/code-423n4/2023-03-asymmetry-findings/blob/main/data/btk-Q.md)            | grade-a     |
-| Contest 225     | [Contest 225 QA](https://github.com/code-423n4/2023-03-contest225-findings/blob/main/data/btk-Q.md)         | grade-a     |
+| Polynomial      | The report has not yet been made public         | grade-a     |
+| Asymmetry       | The report has not yet been made public          | grade-a     |
+| Contest 225     | The report has not yet been made public        | grade-a     |
 | Caviar          | [Caviar QA](https://github.com/code-423n4/2023-04-caviar-findings/blob/main/data/btk-Q.md)                  | grade-a     |
 | Frankencoin     | [Frankencoin QA](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/529)                     | grade-b     |
-| EigenLayer      | [EigenLayer QA](https://github.com/code-423n4/2023-04-eigenlayer-findings/blob/main/data/btk-Q.md)          | grade-b     |
-| Ajna            | [Ajna QA](https://github.com/code-423n4/2023-05-ajna-findings/issues/462)                                   | grade-b     |
+| EigenLayer      | The report has not yet been made public          | grade-b     |
+| Ajna            | The report has not yet been made public                                  | grade-b     |
 
 #### Gas reports
 
