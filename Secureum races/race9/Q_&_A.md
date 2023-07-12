@@ -26,14 +26,14 @@
 - (C): Increases the integer value in the Proxy's storage slot located at index 1
 - (D): Delegate-calls to the zero-address
 
-####[Q5] Calling the decrease() function on the Proxy contract
+#### [Q5] Calling the decrease() function on the Proxy contract
 
 - (A): Will revert because it was not correctly registered on the proxy
 - (B): Will succeed and return the value of counter after it was decreased
 - (C): Will succeed and return the value of counter before it was decreased
 - (D): Will succeed and return nothing
 
-####[Q6] Due to a storage clash between the Proxy and the Mastercopy contracts
+#### [Q6] Due to a storage clash between the Proxy and the Mastercopy contracts
 
 - (A): Proxy's implementations would be overwritten by 0 during initialization of the Mastercopy
 - (B): Proxy's implementations would be overwritten when the counter variable changes
