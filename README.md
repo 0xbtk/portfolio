@@ -12,4 +12,4 @@ I am available for smart contract security audits. Reach out to me on:
 
 - Twitter - [@btk_ayoub](https://twitter.com/btk_ayoub)
 - Discord - [btk#4913](https://discordapp.com/users/731221006101905519)
-- Linkedin - [btkayoub](https://www.linkedin.com/in/btkayoub/)
+- Code4rena - [@btk](https://code4rena.com/@btk)
