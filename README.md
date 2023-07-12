@@ -4,7 +4,7 @@ In this repository, you can find all the information you need about me regarding
 
 # About btk
 
-Benterki Ayoub aka btk, is an independent smart contract security researcher with no tech background. Having found many security vulnerabilities (i.e. HMs) doing Code4rena contests, btk applies his absolute ingenuity to enhance the integrity and robustness of blockchain technologies and its protocols.
+Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), is an independent smart contract security researcher with no tech background. Having found many security vulnerabilities (i.e. HMs) doing Code4rena contests, btk applies his absolute ingenuity to enhance the integrity and robustness of blockchain technologies and its protocols.
 
 ## Contacts
 
