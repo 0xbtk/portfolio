@@ -1,5 +1,3 @@
-## Highs findings
-
 | Protocol   | Title                                                                          |
 |------------|--------------------------------------------------------------------------------|
 | Stakehouse | [Reentrancy attack may occur on `withdrawETHForKnot()`](https://github.com/code-423n4/2022-11-stakehouse-findings/blob/main/data/btk-Q.md) |
