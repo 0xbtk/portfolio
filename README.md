@@ -10,7 +10,15 @@ Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), is an independent smart 
 
 1. [Public contests](#smart-contract-security-portfolio)
 2. [Secureum races](#table-of-contents)
-3. [Most common Lows, NCs, Stylistics, Recommendations issues](#)
+
+## Contributions
+
+In this section, you can find the most common Ls, NCs, Ss, Rs issues:
+
+1. [Lows](#lows)
+2. [Non-Criticals](#wsd)
+3. [Stylistics](#efe)
+4. [Recommendations](#oudc)
 
 ## Usage
 
