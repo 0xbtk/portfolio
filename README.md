@@ -8,17 +8,17 @@ Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), is an independent smart 
 
 ## Table of Contents
 
-1. [Public contests](#smart-contract-security-portfolio)
-2. [Secureum races](#table-of-contents)
+1. [Public contests](https://github.com/btkayoub/smart-contract-security-portfolio/tree/main/Public%20contests)
+2. [Secureum races](https://github.com/btkayoub/smart-contract-security-portfolio/tree/main/Secureum%20races)
 
 ## Contributions
 
-In this section, you can find the most common Ls, NCs, Ss, Rs issues:
+In this section, you can find the most common *Lows*, *Non-Criticals*, *Stylistics*, *Recommendations* issues:
 
-1. [Lows](#lows)
-2. [Non-Criticals](#wsd)
-3. [Stylistics](#efe)
-4. [Recommendations](#oudc)
+- [Lows](https://github.com/btkayoub/smart-contract-security-portfolio/blob/main/QA-Common-issues/Lows.md)
+- [Non-Criticals](https://github.com/btkayoub/smart-contract-security-portfolio/blob/main/QA-Common-issues/Non-Criticals.md)
+- [Stylistics](https://github.com/btkayoub/smart-contract-security-portfolio/blob/main/QA-Common-issues/Stylistics.md)
+- [Recommendations](https://github.com/btkayoub/smart-contract-security-portfolio/blob/main/QA-Common-issues/Recommendations.md)
 
 ## Usage
 
