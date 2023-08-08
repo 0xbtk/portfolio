@@ -1,8 +1,8 @@
 ## [Forgeries Overview](https://audits.sherlock.xyz/contests/51)
 
-| Protocol  | Website     | Twitter     | Contest Pot | Length |
-|-----------|-------------|-------------|-------------|--------|
-| Forgeries | [None]() | [None]() | 36,500 USDC | 3 days |
+| Protocol  | Website     | Twitter     | Contest Pot | Length | Time spent |
+|-----------|-------------|-------------|-------------|--------|------------|
+| Forgeries | [None]() | [None]() | 36,500 USDC | 3 days | < 4 Hours |  
 
 ### About Forgeries
 
