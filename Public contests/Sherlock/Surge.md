@@ -1,8 +1,8 @@
 ## [Surge Overview]()
 
-| Protocol | Website     | Twitter     | Contest Pot | nSLOC | Length |
-|----------|-------------|-------------|-------------|-------|--------|
-| Surge    | [Website]() | [Twitter]() | 14,500 USDC | 874   | 4 days |
+| Protocol | Website     | Twitter     | Contest Pot |Length |
+|----------|-------------|-------------|-------------|-------|
+| Surge    | [Website]() | [Twitter]() | 14,500 USDC |4 days |
 
 ### About Surge
 
@@ -12,9 +12,9 @@ Surge is a hyperstructure lending protocol that allows anyone to deployer their 
 
 | Risk   | Title                                                                             |
 |--------|-----------------------------------------------------------------------------------|
-| [M-01] | `feeRecipient` can be set to `address(0)` even if `feeMantissa` is more than zero |
+| [M-01] | feeRecipient can be set to address(0) even if feeMantissa is more than zero |
 
-# [M-01] `feeRecipient` can be set to `address(0)` even if `feeMantissa` is more than zero
+# [M-01] feeRecipient can be set to address(0) even if feeMantissa is more than zero
 
 ## Summary
 
