@@ -21,17 +21,25 @@ Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), is an independent smart 
 
 ### Audit Competitions
 
-| Contest | High risk | Medium risk | Security report | Language |
-|---------|-----------|-------------|-----------------|----------|
-| [Symmetrical](https://audits.sherlock.xyz/contests/85)| 4 highs | 3 mediums | [Source](https://github.com/SilentYuki/Portfolio/blob/main/Security%20Reports/sherlock/symmetrical.md)| Solidity |
+| Contest | High risk | Medium risk | Security report | Language | Time spent |
+|---------|-----------|-------------|-----------------|----------|------------|
+| [Surge](https://audits.sherlock.xyz/contests/51)|   | 1 Medium | [Source](https://github.com/btkayoub/portfolio/blob/main/Public%20contests/Sherlock/Surge.md)| Solidity | < 1 Hours |
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
 ### Audit Competitions
 
-| Contest | High risk | Medium risk | Security report | Language |
-|---------|-----------|-------------|-----------------|----------|
-| Tangible| 2 highs   | 6 mediums   |   Private       | Solidity |
+| Contest | High risk | Medium risk | Security report | Language | Time spent |
+|---------|-----------|-------------|-----------------|----------|------------|
+| [Stakehouse](https://code4rena.com/contests/2022-11-lsd-network-stakehouse-contest#top)| 1 High   | 1 Medium   |   [Source](https://github.com/btkayoub/portfolio/blob/main/Public%20contests/Code4rena/Stakehouse.md)       | Solidity | < 8 Hours |
+| [Escher](https://code4rena.com/contests/2022-12-escher-contest#top)|   | 1 Medium   |   [Source](https://github.com/btkayoub/portfolio/blob/main/Public%20contests/Code4rena/Escher.md)        | Solidity | < 3 Hours |
+| [Forgeries](https://code4rena.com/contests/2022-12-forgeries-contest#top)| 1 High   |   |   [Source](https://github.com/btkayoub/portfolio/blob/main/Public%20contests/Code4rena/Forgeries.md)        | Solidity | < 4 Hours |
+| [GoGoPool](https://code4rena.com/contests/2022-12-gogopool-contest#top)| 1 High   | 3 Mediums   |   [Source](https://github.com/btkayoub/portfolio/blob/main/Public%20contests/Code4rena/GoGoPool.md)        | Solidity | < 15 Hours |
+| [RabbitHole](https://code4rena.com/contests/2023-01-rabbithole-quest-protocol-contest#top)| 1 High   |      |   [Source](https://github.com/btkayoub/portfolio/blob/main/Public%20contests/Code4rena/RabbitHole.md)        | Solidity | < 1 Hour |
+| [Popcorn](https://code4rena.com/contests/2023-01-popcorn-contest#top)| 1 High   | 1 Medium   |   [Source](https://github.com/btkayoub/portfolio/blob/main/Public%20contests/Code4rena/Popcorn.md)        | Solidity | < 3 Hour |
+| [Audit 225](https://code4rena.com/contests/2023-03-contest-225-contest#top)|  | 1 Medium   |   [Source]()        | Solidity | < 5 Hours |
+| [Caviar](https://code4rena.com/contests/2023-04-caviar-private-pools#top)| 1 High   |       |   [Source](https://github.com/btkayoub/portfolio/blob/main/Public%20contests/Code4rena/Caviar.md)        | Solidity | < 1 Hour |
+| []()| 2 highs   | 6 mediums   |   [Source]()        | Solidity |         |
 
 
 ### QA reports
