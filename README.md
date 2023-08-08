@@ -60,7 +60,7 @@ Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), is an independent smart 
 | Neo Tokyo       | [Source](https://github.com/code-423n4/2023-03-neotokyo-findings/blob/main/data/btk-Q.md)  | grade-a     | Solidity |
 | Polynomial      | [Source](https://github.com/code-423n4/2023-03-polynomial-findings/blob/main/data/btk-Q.md)| grade-a     | Solidity |
 | Asymmetry       | [Source](https://github.com/code-423n4/2023-03-asymmetry-findings/blob/main/data/btk-Q.md) | grade-a     | Solidity |
-| Contest 225     | [Source](https://github.com/code-423n4/2023-03-contest225-findings/blob/main/data/btk-Q.md)| grade-a     | Solidity |
+| Contest 225     | [Private]()| grade-a     | Solidity |
 | Caviar          | [Source](https://github.com/code-423n4/2023-04-caviar-findings/blob/main/data/btk-Q.md)    | grade-a     | Solidity |
 
 ## Contributions
