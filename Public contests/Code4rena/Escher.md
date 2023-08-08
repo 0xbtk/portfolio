@@ -1,8 +1,8 @@
 ## [Escher Overview](https://code4rena.com/contests/2022-12-escher-contest#top)
 
-| Protocol | Website     | Twitter     | Contest Pot | Length |
-|----------|-------------|-------------|-------------|--------|
-| Escher   | [404]() | [404](L) | 36,500 USDC | 3 days |
+| Protocol | Website     | Twitter     | Contest Pot | Length | Time spent |
+|----------|-------------|-------------|-------------|--------|--------|
+| Escher   | [404]() | [404](L) | 36,500 USDC | 3 days | < 3 Hours |
 
 ### About Escher
 
