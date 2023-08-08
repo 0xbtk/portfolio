@@ -1,4 +1,4 @@
-## [RabbitHole Overview](https://audits.sherlock.xyz/contests/51)
+## [RabbitHole Overview](https://code4rena.com/contests/2023-01-rabbithole-quest-protocol-contest#top)
 
 | Protocol | Website     | Twitter     | Contest Pot | Length | Time spent |
 |----------|-------------|-------------|-------------|--------|------------|
