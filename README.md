@@ -8,8 +8,47 @@ Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), is an independent smart 
 
 ## Table of Contents
 
-1. [Public contests](https://github.com/btkayoub/smart-contract-security-portfolio/tree/main/Public%20contests)
-2. [Secureum races](https://github.com/btkayoub/smart-contract-security-portfolio/tree/main/Secureum%20races)
+1. [Secureum races](https://github.com/btkayoub/smart-contract-security-portfolio/tree/main/Secureum%20races)
+2. [QA Common issues](https://github.com/btkayoub/portfolio/tree/main/QA-Common-issues)
+
+## Btk's overall findings
+
+| Overall HMs     | High risk | Unique highs | Medium risk | Unique mediums |Audited contests |
+|-----------------|-----------|--------------|-------------|----------------|-----------------|
+| 17 issues found | 6 Highs   |              | 11 Mediums  |                | 10 contests     |
+
+# Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
+
+### Audit Competitions
+
+| Contest | High risk | Medium risk | Security report | Language |
+|---------|-----------|-------------|-----------------|----------|
+| [Symmetrical](https://audits.sherlock.xyz/contests/85)| 4 highs | 3 mediums | [Source](https://github.com/SilentYuki/Portfolio/blob/main/Security%20Reports/sherlock/symmetrical.md)| Solidity |
+
+# Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
+
+### Audit Competitions
+
+| Contest | High risk | Medium risk | Security report | Language |
+|---------|-----------|-------------|-----------------|----------|
+| Tangible| 2 highs   | 6 mediums   |   Private       | Solidity |
+
+
+### QA reports
+
+| Protocol        | QA reports                                                                                 | Judge Grade | Language |
+|-----------------|--------------------------------------------------------------------------------------------|-------------|----------|
+| Biconomy        | [Source](https://github.com/code-423n4/2023-01-biconomy-findings/blob/main/data/btk-Q.md)  | grade-a     | Solidity |
+| Ondo Finance    | [Source](https://github.com/code-423n4/2023-01-ondo-findings/blob/main/data/btk-Q.md)      | grade-a     | Solidity |
+| Timeswap        | [Source](https://github.com/code-423n4/2023-01-timeswap-findings/blob/main/data/btk-Q.md)  | grade-a     | Solidity |
+| RabbitHole      | [Source](https://github.com/code-423n4/2023-01-rabbithole-findings/blob/main/data/btk-Q.md)| grade-a     | Solidity |
+| Numoen          | [Source](https://github.com/code-423n4/2023-01-numoen-findings/blob/main/data/btk-Q.md)    | grade-a     | Solidity |
+| Popcorn         | [Source](https://github.com/code-423n4/2023-01-popcorn-findings/blob/main/data/btk-Q.md)   | grade-a     | Solidity |
+| Neo Tokyo       | [Source](https://github.com/code-423n4/2023-03-neotokyo-findings/blob/main/data/btk-Q.md)  | grade-a     | Solidity |
+| Polynomial      | [Source](https://github.com/code-423n4/2023-03-polynomial-findings/blob/main/data/btk-Q.md)| grade-a     | Solidity |
+| Asymmetry       | [Source](https://github.com/code-423n4/2023-03-asymmetry-findings/blob/main/data/btk-Q.md) | grade-a     | Solidity |
+| Contest 225     | [Source](https://github.com/code-423n4/2023-03-contest225-findings/blob/main/data/btk-Q.md)| grade-a     | Solidity |
+| Caviar          | [Source](https://github.com/code-423n4/2023-04-caviar-findings/blob/main/data/btk-Q.md)    | grade-a     | Solidity |
 
 ## Contributions
 
