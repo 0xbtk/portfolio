@@ -80,6 +80,10 @@ Feel free to explore the contents of this repository and use the resources provi
 
 I am always open to feedback, suggestions, or collaboration opportunities. If you have any questions, ideas, or improvements for this portfolio, please don't hesitate to reach out to me.
 
+## Acknowledgement
+
+This portfolio template was originally made by [WhitehatDiary](https://twitter.com/WhitehatDiary), with some modifications implemented by me based on my requirements.
+
 ## Contacts
 
 I am available for smart contract security audits. Reach out to me on:
