@@ -14,7 +14,7 @@ Surge is a hyperstructure lending protocol that allows anyone to deployer their 
 |--------|-----------------------------------------------------------------------------------|
 | [M-01] | feeRecipient can be set to address(0) even if feeMantissa is more than zero |
 
-# [M-01] feeRecipient can be set to address(0) even if feeMantissa is more than zero
+## [M-01] feeRecipient can be set to address(0) even if feeMantissa is more than zero
 
 ## Summary
 
