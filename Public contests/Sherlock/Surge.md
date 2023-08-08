@@ -1,8 +1,8 @@
 ## [Surge Overview](https://audits.sherlock.xyz/contests/51)
 
-| Protocol | Website     | Twitter     | Contest Pot |Length |
-|----------|-------------|-------------|-------------|-------|
-| Surge    | [Website]() | [Twitter]() | 14,500 USDC |4 days |
+| Protocol | Website     | Twitter     | Contest Pot | Length |
+|----------|-------------|-------------|-------------|--------|
+| Surge    | [Website](https://surgeprotocol.io/) | [Twitter](https://twitter.com/SURGEPROTOCOL) | 14,500 USDC | 4 days |
 
 ### About Surge
 
