@@ -1,8 +1,8 @@
 ## [Surge Overview](https://audits.sherlock.xyz/contests/51)
 
-| Protocol | Website     | Twitter     | Contest Pot | Length |
-|----------|-------------|-------------|-------------|--------|
-| Surge    | [Website](https://surgeprotocol.io/) | [Twitter](https://twitter.com/SURGEPROTOCOL) | 14,500 USDC | 4 days |
+| Protocol | Website     | Twitter     | Contest Pot | Length | Time spent |
+|----------|-------------|-------------|-------------|--------|------------|
+| Surge    | [Website](https://surgeprotocol.io/) | [Twitter](https://twitter.com/SURGEPROTOCOL) | 14,500 USDC | 4 days | < 1 Hour  |
 
 ### About Surge
 
@@ -12,7 +12,7 @@ Surge is a hyperstructure lending protocol that allows anyone to deployer their 
 
 | Risk   | Title                                                                             |
 |--------|-----------------------------------------------------------------------------------|
-| [M-01] | feeRecipient can be set to address(0) even if feeMantissa is more than zero |
+| [M-01] | feeRecipient can be set to address(0) even if feeMantissa is more than zero       |
 
 ## [M-01] feeRecipient can be set to address(0) even if feeMantissa is more than zero
 
