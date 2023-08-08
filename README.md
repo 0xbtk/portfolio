@@ -15,7 +15,7 @@ Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), is an independent smart 
 
 | Overall HMs     | High risk | Unique highs | Medium risk | Unique mediums |Audited contests |
 |-----------------|-----------|--------------|-------------|----------------|-----------------|
-| 17 issues found | 6 Highs   |              | 11 Mediums  |                | 10 contests     |
+| 33 issues found | 11 Highs  |              | 22 Mediums  |                | 14 contests     |
 
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
 
@@ -39,7 +39,12 @@ Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), is an independent smart 
 | [Popcorn](https://code4rena.com/contests/2023-01-popcorn-contest#top)| 1 High   | 1 Medium   |   [Source](https://github.com/btkayoub/portfolio/blob/main/Public%20contests/Code4rena/Popcorn.md)        | Solidity | < 3 Hour |
 | [Audit 225](https://code4rena.com/contests/2023-03-contest-225-contest#top)|  | 1 Medium   |   [Source]()        | Solidity | < 5 Hours |
 | [Caviar](https://code4rena.com/contests/2023-04-caviar-private-pools#top)| 1 High   |       |   [Source](https://github.com/btkayoub/portfolio/blob/main/Public%20contests/Code4rena/Caviar.md)        | Solidity | < 1 Hour |
-| []()| 2 highs   | 6 mediums   |   [Source]()        | Solidity |         |
+| [Rubicon V2](https://code4rena.com/contests/2023-04-rubicon-v2#top) |     | 1 Medium   |   [Source]()        | Solidity | < 1 Hours |
+| [Lybra](https://code4rena.com/contests/2023-06-lybra-finance#top) |       | 1 Medium   |   [Source]()        | Solidity | < 7 Hours |
+| [Maia](https://code4rena.com/contests/2023-05-maia-dao-ecosystem#top) |    | 1 Mediums   |   [Source]()        | Solidity | < 7 Hours |
+| [PoolTogether](https://code4rena.com/contests/2023-07-pooltogether#top) | 1 High   | 2 Medium   |   [Source]()        | Solidity | < 10 Hours |
+| [Amphora](https://code4rena.com/contests/2023-07-amphora-protocol#top) |   | 3 Mediums   |   [Source]()        | Solidity | < 3 Hours |
+| [Tnagible](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 4 Highs   | 7 Mediums   |   [Source]()        | Solidity | < 18 Hours |
 
 
 ### QA reports
