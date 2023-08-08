@@ -1,8 +1,8 @@
 ## [Stakehouse Overview](https://code4rena.com/contests/2022-11-lsd-network-stakehouse-contest#top)
 
-| Protocol   | Website     | Twitter     | Contest Pot | Length |
-|------------|-------------|-------------|-------------|--------|
-| Stakehouse | [Website](https://docs.joinstakehouse.com/) | [Twitter](https://twitter.com/blockswap_team/) | 90,500 USDC | 7 days |
+| Protocol   | Website     | Twitter     | Contest Pot | Length | Time spent |
+|------------|-------------|-------------|-------------|--------|--------|
+| Stakehouse | [Website](https://docs.joinstakehouse.com/) | [Twitter](https://twitter.com/blockswap_team/) | 90,500 USDC | 7 days | < 8 Hours |
 
 ### About Stakehouse
 
