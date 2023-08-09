@@ -82,7 +82,7 @@ I am always open to feedback, suggestions, or collaboration opportunities. If yo
 
 ## Acknowledgement
 
-This portfolio template was originally made by [WhitehatDiary](https://twitter.com/WhitehatDiary), with some modifications implemented by me based on my requirements.
+This portfolio template was originally made by [WhitehatDiary](https://twitter.com/WhitehatDiary), with some modifications implemented based on my requirements.
 
 ## Contacts
 
