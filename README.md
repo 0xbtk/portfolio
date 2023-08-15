@@ -15,7 +15,7 @@ Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), is an independent smart 
 
 | Overall HMs     | High risk | Unique highs | Medium risk | Unique mediums |Audited contests |
 |-----------------|-----------|--------------|-------------|----------------|-----------------|
-| 33 issues found | 11 Highs  |              | 22 Mediums  |                | 14 contests     |
+| 29 issues found | 11 Highs  |              | 18 Mediums  |                | 14 contests     |
 
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
 
