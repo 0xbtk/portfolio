@@ -87,6 +87,6 @@ This portfolio template was originally made by [WhitehatDiary](https://twitter.c
 
 I am available for smart contract security audits. Reach out to me on:
 
-- Twitter - [@btk_ayoub](https://twitter.com/btk_ayoub)
+- Twitter - [@BtkGuardX](https://twitter.com/BtkGuardX)
 - Discord - [btk#4913](https://discordapp.com/users/731221006101905519)
 - Code4rena profile - [@btk](https://code4rena.com/@btk)
