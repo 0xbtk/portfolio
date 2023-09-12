@@ -43,7 +43,7 @@ Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), is an independent smart 
 | [Lybra](https://code4rena.com/contests/2023-06-lybra-finance#top) |       | 1 Medium   |   [Private]()        | Solidity | < 7 Hours |
 | [Maia](https://code4rena.com/contests/2023-05-maia-dao-ecosystem#top) |    | 1 Mediums   |   [Private]()        | Solidity | < 7 Hours |
 | [PoolTogether](https://code4rena.com/contests/2023-07-pooltogether#top) | 1 High   | 1 Medium   |   [Private]()        | Solidity | < 10 Hours |
-| [Tnagible](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 4 Highs   | 3 Mediums   |   [Private]()        | Solidity | < 18 Hours |
+| [Tnagible](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 5 Highs   | 3 Mediums   |   [Private]()        | Solidity | < 18 Hours |
 
 
 ### QA reports
