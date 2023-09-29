@@ -40,7 +40,7 @@ Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), is an independent smart 
 | [Audit 225](https://code4rena.com/contests/2023-03-contest-225-contest#top)|  | 1 Medium   |   [Private]()        | Solidity | < 5 Hours |
 | [Caviar](https://code4rena.com/contests/2023-04-caviar-private-pools#top)| 1 High   |       |   [Source](https://github.com/btkayoub/portfolio/blob/main/Public%20contests/Code4rena/Caviar.md)        | Solidity | < 1 Hour |
 | [Rubicon V2](https://code4rena.com/contests/2023-04-rubicon-v2#top) |     | 1 Medium   |   [Private]()        | Solidity | < 1 Hours |
-| [Lybra](https://code4rena.com/contests/2023-06-lybra-finance#top) |       | 1 Medium   |   [Private]()        | Solidity | < 7 Hours |
+| [Lybra](https://code4rena.com/contests/2023-06-lybra-finance#top) |       | 1 Medium   |   [Source](https://github.com/0xbtk/portfolio/blob/main/Public%20contests/Code4rena/Lybra.md)        | Solidity | < 7 Hours |
 | [Maia](https://code4rena.com/contests/2023-05-maia-dao-ecosystem#top) |    | 1 Mediums   |   [Private]()        | Solidity | < 7 Hours |
 | [PoolTogether](https://code4rena.com/contests/2023-07-pooltogether#top) | 1 High   | 1 Medium   |   [Private]()        | Solidity | < 10 Hours |
 | [Tnagible](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 5 Highs   | 2 Mediums   |   [Private]()        | Solidity | < 18 Hours |
