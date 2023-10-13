@@ -6,11 +6,11 @@ Welcome to my Smart Contract Security Portfolio! In this repository, you can fin
 
 Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), is an independent smart contract security researcher with no tech background. I've discovered many security vulnerabilities (i.e. HMs) doing Code4rena contests. Here is a breakdown of my skills and expertise:
 
-- Foundry Test Writing: I can create foundry (Fuzzing and Invariant testing) tests for your codebase from scratch, guaranteeing full code coverage.
-
 - Smart Contract Development: I can create smart contracts from scratch, following best practices. My expertise spans various DeFi projects, from Staking, Lending, Perpetuals, Stablecoin, NFTs, Yield Aggregator, to Derivatives.
 
-- Smart Contract Security Reviews: You can explore my audit findings [here](https://github.com/0xbtk/portfolio/tree/main#btks-overall-findings).
+- Foundry Test Writing: I can create foundry (Fuzzing and Invariant testing) tests for your codebase from scratch, guaranteeing full code coverage.
+
+- Smart Contract Security Reviews: I can deliver a high quality security audit. You can review my audit findings [here](https://github.com/0xbtk/portfolio/tree/main#btks-overall-findings).
 
 ## Table of Contents
 
