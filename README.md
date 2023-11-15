@@ -21,7 +21,7 @@ Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), is an independent smart 
 
 | Overall HMs     | High risk | Unique highs | Medium risk | Unique mediums |Audited contests |
 |-----------------|-----------|--------------|-------------|----------------|-----------------|
-| 26 issues found | 12 Highs  |              | 14 Mediums  |                | 14 contests     |
+| 31 issues found | 13 Highs  |              | 18 Mediums  |                | 14 contests     |
 
 # Sherlock  <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=22 height=22>
 
@@ -50,7 +50,7 @@ Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), is an independent smart 
 | [Maia](https://code4rena.com/contests/2023-05-maia-dao-ecosystem#top) |    | 1 Mediums   |   [Source](https://github.com/0xbtk/portfolio/blob/main/Public%20contests/Code4rena/Maia.md)        | Solidity | < 7 Hours |
 | [PoolTogether](https://code4rena.com/contests/2023-07-pooltogether#top) | 1 High   | 1 Medium   |   [Private]()        | Solidity | < 10 Hours |
 | [Tnagible](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 5 Highs   | 2 Mediums   |   [Private]()        | Solidity | < 18 Hours |
-
+| [Open Dollar](https://code4rena.com/contests/2023-10-open-dollar#top) |    | 3 Mediums   |   [Private]()        | Solidity | < 15 Hours |
 
 ### QA reports
 
