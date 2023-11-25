@@ -10,7 +10,7 @@ Detailed description of the impact of this finding.
 
 ## Proof of Concept
 
-#### Issue details
+#### Vulnerability Details
 
 Provide direct links to all referenced code in GitHub. Add screenshots, logs, or any other relevant proof that illustrates the concept.
 
