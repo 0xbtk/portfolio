@@ -31,7 +31,7 @@ Max is : 10
 
 #### Test Setup:
 
-- Incorporate the tests in [**`Contract link`**](link)
+- Incorporate the tests in [**`Contract name`**](link)
 - Execute: **`forge test --mc contract-name --mt test-name -vvv`**
 
 ## Tools Used
