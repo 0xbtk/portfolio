@@ -4,7 +4,7 @@ Welcome to my Smart Contract Security Portfolio! In this repository, you can fin
 
 # About btk
 
-Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), is an independent smart contract security researcher with no tech background. I've discovered many security vulnerabilities (i.e. HMs) doing Code4rena contests. Here is a breakdown of my skills and expertise:
+Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), I'm an independent smart contract security researcher with no tech background. I've discovered many security vulnerabilities (i.e. HMs) doing Code4rena contests. Here is a breakdown of my skills and expertise:
 
 - Smart Contract Development: I can develop smart contracts from scratch, following best practices. My expertise spans various DeFi projects, from Staking, Lending, Stablecoin, NFTs, Yield Aggregator, to Derivatives.
 
