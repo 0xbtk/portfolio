@@ -4,13 +4,7 @@ Welcome to my Smart Contract Security Portfolio! In this repository, you can fin
 
 # About btk
 
-Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), I'm an independent smart contract security researcher with no tech background. I've discovered many security vulnerabilities (i.e. HMs) doing Code4rena contests. Here is a breakdown of my skills and expertise:
-
-- Smart Contract Development: I can develop smart contracts from scratch, following best practices. My expertise spans various DeFi projects, from Staking, Lending, Stablecoin, NFTs, Yield Aggregator, to Derivatives.
-
-- Foundry Test Writing: I can create foundry (Unit / Invariant) tests for your codebase from scratch, guaranteeing full code coverage.
-
-- Smart Contract Security Reviews: I can deliver a high quality ppv (Pay Per Vulnerability) audit. You can review my code4rena findings [here](https://code4rena.com/@btk).
+Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), I'm an independent smart contract security researcher with no tech background. I've discovered many security vulnerabilities (i.e. HMs) doing Code4rena contests. However, i've mainly been doing team audit with @PashovAuditingGroup since May 2024 and that's it.
 
 ### My best QA reports
 
@@ -28,14 +22,20 @@ Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), I'm an independent smart
 | Contest 225     | [Private]()| grade-a     | Solidity |
 | Caviar          | [Source](https://github.com/code-423n4/2023-04-caviar-findings/blob/main/data/btk-Q.md)    | grade-a     | Solidity |
 
-## Contributions
+### Pashov Audit Group
 
-In this section, you can find the most common *Lows*, *Non-Criticals*, *Stylistics*, *Recommendations* issues:
+| Audit     | PDF report                                                                               |
+|-----------------|--------------------------------------------------------------------------------------------|
+| [Crate Protocol](https://x.com/crateplace)        | Private  |
+| [Ethena Protocol](https://x.com/ethena_labs)        | [Source](https://github.com/pashov/audits/blob/master/team/pdf/Ethena-security-review-May.pdf)  |
+| [Fyde Protocol](https://x.com/FydeLabs)        | [Source](https://github.com/pashov/audits/blob/master/team/pdf/Fyde-security-review-May.pdf)  |
+| [StationX Network](https://x.com/StationXnetwork)        | [Source](https://github.com/pashov/audits/blob/master/team/md/StationX-security-review.md)  |
+| [Layer Zero ZRO Claim](https://x.com/LayerZero_Core)        | [Source](https://github.com/pashov/audits/blob/master/team/md/LayerZeroZROClaim-security-review.md)  |
+| [Layer Zero ZRO Claim](https://x.com/LayerZero_Core)        | [Source](https://github.com/pashov/audits/blob/master/team/md/LayerZeroZROClaim-security-review.md)  |
 
-- [Lows](https://github.com/btkayoub/smart-contract-security-portfolio/blob/main/QA-Common-issues/Lows.md)
-- [Non-Criticals](https://github.com/btkayoub/smart-contract-security-portfolio/blob/main/QA-Common-issues/Non-Criticals.md)
-- [Stylistics](https://github.com/btkayoub/smart-contract-security-portfolio/blob/main/QA-Common-issues/Stylistics.md)
-- [Recommendations](https://github.com/btkayoub/smart-contract-security-portfolio/blob/main/QA-Common-issues/Recommendations.md)
+
+
+
 
 ## Feedback
 
