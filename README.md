@@ -47,4 +47,4 @@ I am available for smart contract security audits. Reach out to me on:
 
 - Twitter - [@0xbtk](https://twitter.com/0xbtk)
 - Discord - [btk#4913](https://discordapp.com/users/731221006101905519)
-- Telegram - [btktj](t.me/btktj)
+- Telegram - t.me/btktj
