@@ -4,9 +4,17 @@ Welcome to my Smart Contract Security Portfolio! In this repository, you can fin
 
 # About btk
 
-I'm an independent smart contract security researcher with no tech background. That's it.
+I'm a smart contract security researcher with no tech background. I believe in simple processes, sharp eyes, and high standards. That's it.
 
-### My best QA reports
+### Code4rena Profile
+
+Check out my Code4rena profile, where I've consistently identified multiple high and medium-risk findings in security contests (**33 High** and **38 Medium** severity issues), earning a total of **$13,000** in rewards.
+
+➡️ **[Visit my profile](https://code4rena.com/@btk)**
+
+### Top QA reports
+
+Here are some of my highest-rated QA reports from Code4rena contests.
 
 | Protocol        | QA reports                                                                                 | Judge Grade | Language |
 |-----------------|--------------------------------------------------------------------------------------------|-------------|----------|
@@ -23,6 +31,8 @@ I'm an independent smart contract security researcher with no tech background. T
 | Caviar          | [Source](https://github.com/code-423n4/2023-04-caviar-findings/blob/main/data/btk-Q.md)    | grade-a     | Solidity |
 
 ### Pashov Audit Group
+
+As a member of **Pashov Audit Group**, I’ve contributed to security audits across a wide range of protocols. Below are some of the notable ones:
 
 | Audit     | PDF report                                                                               |
 |-----------------|--------------------------------------------------------------------------------------------|
@@ -51,17 +61,9 @@ I'm an independent smart contract security researcher with no tech background. T
 | [Roots](https://x.com/rootsfi)        | Private  |
 | [Kinetiq](https://x.com/kinetiq_xyz)        | Private  |
 
-
-
-
-
-
-
-
-
 ## Feedback
 
-I am always open to feedback, suggestions, or collaboration opportunities, please don't hesitate to reach out to me.
+I am always open to feedback, suggestions, or collaboration opportunities, please don't hesitate to reach out to me on Telegram(**btktj**).
 
 ## Contacts
 
@@ -69,4 +71,3 @@ I am available for smart contract security audits. Reach out to me on:
 
 - Twitter - [@0xbtk](https://twitter.com/0xbtk)
 - Discord - [btk#4913](https://discordapp.com/users/731221006101905519)
-- Telegram - t.me/btktj
