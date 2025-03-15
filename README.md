@@ -58,6 +58,7 @@ As a member of **Pashov Audit Group**, I’ve contributed to security audits acr
 | [Spectra Fincance](https://x.com/spectra_finance)        | Private  |
 | [Ouroboros_ORX](https://x.com/Ouroboros_ORX)        | Private  |
 | [Burve](https://x.com/BurveProtocol)        | Private  |
+| [Sushi](https://x.com/SushiSwap)        | Private  |
 | [Roots](https://x.com/rootsfi)        | Private  |
 | [Kinetiq](https://x.com/kinetiq_xyz)        | Private  |
 
