@@ -4,7 +4,7 @@ Welcome to my Smart Contract Security Portfolio! In this repository, you can fin
 
 # About btk
 
-Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), I'm an independent smart contract security researcher with no tech background. I've discovered many security vulnerabilities (i.e. HMs) doing Code4rena contests. However, i've mainly been doing team audit with @PashovAuditingGroup since May 2024 and that's it.
+I'm an independent smart contract security researcher with no tech background. That's it.
 
 ### My best QA reports
 
@@ -31,7 +31,29 @@ Benterki Ayoub aka [`btk`](https://code4rena.com/@btk), I'm an independent smart
 | [Fyde Protocol](https://x.com/FydeLabs)        | [Source](https://github.com/pashov/audits/blob/master/team/pdf/Fyde-security-review-May.pdf)  |
 | [StationX Network](https://x.com/StationXnetwork)        | [Source](https://github.com/pashov/audits/blob/master/team/md/StationX-security-review.md)  |
 | [Layer Zero ZRO Claim](https://x.com/LayerZero_Core)        | [Source](https://github.com/pashov/audits/blob/master/team/md/LayerZeroZROClaim-security-review.md)  |
-| [Layer Zero ZRO Claim](https://x.com/LayerZero_Core)        | [Source](https://github.com/pashov/audits/blob/master/team/md/LayerZeroZROClaim-security-review.md)  |
+| [Lucidly Finance](https://x.com/LucidlyFinance)        | [Source](https://github.com/pashov/audits/blob/master/team/md/Lucidly-security-review-June.md)  |
+| [Gains Network](https://x.com/GainsNetwork_io)        | [Source](https://github.com/pashov/audits/blob/master/team/md/GainsNetwork-security-review-July.md)  |
+| [Resolv Labs](https://x.com/ResolvLabs)        | [Source](https://github.com/pashov/audits/blob/master/team/md/Resolv-security-review.md)  |
+| [Aegis](https://x.com/aegis_im)        | [Source](https://github.com/pashov/audits/blob/master/team/md/AegisVault-security-review.md)  |
+| [Resolv Labs](https://x.com/ResolvLabs)        | [Source](https://github.com/pashov/audits/blob/master/team/md/Resolv-security-review-August.md)  |
+| [Aave](https://x.com/aave)        | [Source](https://github.com/pashov/audits/blob/master/team/md/Aave-security-review.md)  |
+| [Aegis](https://x.com/aegis_im)        | [Source](https://github.com/pashov/audits/blob/master/team/md/Aegis-security-review-September.md)  |
+| [Resolv Labs](https://x.com/ResolvLabs)        | [Source](https://github.com/pashov/audits/blob/master/team/md/Resolv-security-review-October.md)  |
+| [Ethena Protocol](https://x.com/ethena_labs)        | [Source](https://github.com/pashov/audits/blob/master/team/md/Ethena-security-review-October.md)  |
+| [Stake Dao](https://x.com/StakeDAOHQ)        | [Source](https://github.com/pashov/audits/blob/master/team/md/LaPoste-security-review-October.md)  |
+| [Gummi](https://x.com/gummifi)        | Private  |
+| [Ulti](https://x.com/0xULTI)        | [Source](https://github.com/pashov/audits/blob/master/team/md/ULTI-security-review-November2.md)  |
+| [Ouroboros_ORX](https://x.com/Ouroboros_ORX)        | [Source](https://github.com/pashov/audits/blob/master/team/md/Ouroboros-security-review_2024-12-06.md)  |
+| [Ion](https://x.com/ionprotocol)        | Private  |
+| [Spectra Fincance](https://x.com/spectra_finance)        | Private  |
+| [Ouroboros_ORX](https://x.com/Ouroboros_ORX)        | Private  |
+| [Burve](https://x.com/BurveProtocol)        | Private  |
+| [Roots](https://x.com/rootsfi)        | Private  |
+| [Kinetiq](https://x.com/kinetiq_xyz)        | Private  |
+
+
+
+
 
 
 
