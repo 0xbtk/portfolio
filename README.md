@@ -4,7 +4,9 @@ Welcome to my Smart Contract Security Portfolio! In this repository, you can fin
 
 # About btk
 
-I'm a smart contract security researcher with no tech background. I believe in simple processes, sharp eyes, and high standards. That's it.
+I'm a smart contract security researcher with no tech background. I believe in simple processes, sharp eyes, and high standards. I have audited Aave, Sushi, Ethena, LayerZero, Resolv, Gains Network and several multi-million protocols.
+
+That's it.
 
 ### Code4rena Profile
 
