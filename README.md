@@ -4,7 +4,7 @@ Welcome to my Smart Contract Security Portfolio! In this repository, you can fin
 
 # About btk
 
-I'm a smart contract security researcher with no tech background. I believe in simple processes, sharp eyes, and high standards. I have audited Aave, Sushi, Ethena, LayerZero, Resolv, Gains Network and several multi-million protocols.
+I'm a smart contract security researcher with no tech background. I believe in simple processes, sharp eyes, and high standards. I have audited [Aave](https://x.com/aave), [Sushi](https://x.com/SushiSwap), [Ethena](https://x.com/ethena_labs), [LayerZero](https://x.com/LayerZero_Core), [Resolv](https://x.com/ResolvLabs), [Gains Network](https://x.com/GainsNetwork_io), [Biconomy Composability](https://x.com/biconomy) and several multi-million protocols.
 
 Interested in working together? DM me **[btktj](https://t.me/btktj)**.
 
@@ -63,6 +63,9 @@ As a member of **Pashov Audit Group**, I’ve contributed to security audits acr
 | [Sushi](https://x.com/SushiSwap)        | Private  |
 | [Roots](https://x.com/rootsfi)        | Private  |
 | [Kinetiq](https://x.com/kinetiq_xyz)        | Private  |
+| [Biconomy Composability](https://x.com/biconomy)        | Private  |
+| [Beam Bridge](https://x.com/BuildOnBeam)        | Private  |
+
 
 ### [Bailsec](https://x.com/bailsecurity)
 
