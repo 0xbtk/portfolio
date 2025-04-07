@@ -6,7 +6,7 @@ Welcome to my Smart Contract Security Portfolio! In this repository, you can fin
 
 I'm a smart contract security researcher with no tech background. I believe in simple processes, sharp eyes, and high standards. I have audited Aave, Sushi, Ethena, LayerZero, Resolv, Gains Network and several multi-million protocols.
 
-That's it.
+Interested in working together? DM me **[btktj](https://t.me/btktj)**.
 
 ### Code4rena Profile
 
@@ -32,7 +32,7 @@ Here are some of my highest-rated QA reports from Code4rena contests.
 | Contest 225     | [Private]()| grade-a     | Solidity |
 | Caviar          | [Source](https://github.com/code-423n4/2023-04-caviar-findings/blob/main/data/btk-Q.md)    | grade-a     | Solidity |
 
-### Pashov Audit Group
+### [Pashov Audit Group](https://x.com/PashovAuditGrp)
 
 As a member of **Pashov Audit Group**, I’ve contributed to security audits across a wide range of protocols. Below are some of the notable ones:
 
@@ -64,13 +64,16 @@ As a member of **Pashov Audit Group**, I’ve contributed to security audits acr
 | [Roots](https://x.com/rootsfi)        | Private  |
 | [Kinetiq](https://x.com/kinetiq_xyz)        | Private  |
 
-## Feedback
+### [Bailsec](https://x.com/bailsecurity)
 
-I am always open to feedback, suggestions, or collaboration opportunities, please don't hesitate to reach out to me on Telegram(**btktj**).
+| Audit     | PDF report                                                                               |
+|-----------------|--------------------------------------------------------------------------------------------|
+| [Inception](https://x.com/InceptionLRT)        | Private  |
 
 ## Contacts
 
 I am available for smart contract security audits. Reach out to me on:
 
+- Telegram - [btktj](https://t.me/btktj)
 - Twitter - [@0xbtk](https://twitter.com/0xbtk)
 - Discord - [btk#4913](https://discordapp.com/users/731221006101905519)
