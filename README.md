@@ -10,24 +10,6 @@ Check out my Code4rena profile, where I've consistently identified multiple high
 
 ➡️ **[Visit my profile](https://code4rena.com/@btk)**
 
-### Top QA reports
-
-Here are some of my highest-rated QA reports from Code4rena contests.
-
-| Protocol        | QA reports                                                                                 | Judge Grade | Language |
-|-----------------|--------------------------------------------------------------------------------------------|-------------|----------|
-| Biconomy        | [Source](https://github.com/code-423n4/2023-01-biconomy-findings/blob/main/data/btk-Q.md)  | grade-a     | Solidity |
-| Ondo Finance    | [Source](https://github.com/code-423n4/2023-01-ondo-findings/blob/main/data/btk-Q.md)      | grade-a     | Solidity |
-| Timeswap        | [Source](https://github.com/code-423n4/2023-01-timeswap-findings/blob/main/data/btk-Q.md)  | grade-a     | Solidity |
-| RabbitHole      | [Source](https://github.com/code-423n4/2023-01-rabbithole-findings/blob/main/data/btk-Q.md)| grade-a     | Solidity |
-| Numoen          | [Source](https://github.com/code-423n4/2023-01-numoen-findings/blob/main/data/btk-Q.md)    | grade-a     | Solidity |
-| Popcorn         | [Source](https://github.com/code-423n4/2023-01-popcorn-findings/blob/main/data/btk-Q.md)   | grade-a     | Solidity |
-| Neo Tokyo       | [Source](https://github.com/code-423n4/2023-03-neotokyo-findings/blob/main/data/btk-Q.md)  | grade-a     | Solidity |
-| Polynomial      | [Source](https://github.com/code-423n4/2023-03-polynomial-findings/blob/main/data/btk-Q.md)| grade-a     | Solidity |
-| Asymmetry       | [Source](https://github.com/code-423n4/2023-03-asymmetry-findings/blob/main/data/btk-Q.md) | grade-a     | Solidity |
-| Contest 225     | [Private]()| grade-a     | Solidity |
-| Caviar          | [Source](https://github.com/code-423n4/2023-04-caviar-findings/blob/main/data/btk-Q.md)    | grade-a     | Solidity |
-
 ### [Pashov Audit Group](https://x.com/PashovAuditGrp)
 
 As a member of **Pashov Audit Group**, I’ve contributed to security audits across a wide range of protocols. Below are some of the notable ones:
@@ -68,6 +50,24 @@ As a member of **Pashov Audit Group**, I’ve contributed to security audits acr
 | Audit     | PDF report                                                                               |
 |-----------------|--------------------------------------------------------------------------------------------|
 | [Inception](https://x.com/InceptionLRT)        | Private  |
+
+### Top QA reports
+
+Here are some of my highest-rated QA reports from Code4rena contests.
+
+| Protocol        | QA reports                                                                                 | Judge Grade | Language |
+|-----------------|--------------------------------------------------------------------------------------------|-------------|----------|
+| Biconomy        | [Source](https://github.com/code-423n4/2023-01-biconomy-findings/blob/main/data/btk-Q.md)  | grade-a     | Solidity |
+| Ondo Finance    | [Source](https://github.com/code-423n4/2023-01-ondo-findings/blob/main/data/btk-Q.md)      | grade-a     | Solidity |
+| Timeswap        | [Source](https://github.com/code-423n4/2023-01-timeswap-findings/blob/main/data/btk-Q.md)  | grade-a     | Solidity |
+| RabbitHole      | [Source](https://github.com/code-423n4/2023-01-rabbithole-findings/blob/main/data/btk-Q.md)| grade-a     | Solidity |
+| Numoen          | [Source](https://github.com/code-423n4/2023-01-numoen-findings/blob/main/data/btk-Q.md)    | grade-a     | Solidity |
+| Popcorn         | [Source](https://github.com/code-423n4/2023-01-popcorn-findings/blob/main/data/btk-Q.md)   | grade-a     | Solidity |
+| Neo Tokyo       | [Source](https://github.com/code-423n4/2023-03-neotokyo-findings/blob/main/data/btk-Q.md)  | grade-a     | Solidity |
+| Polynomial      | [Source](https://github.com/code-423n4/2023-03-polynomial-findings/blob/main/data/btk-Q.md)| grade-a     | Solidity |
+| Asymmetry       | [Source](https://github.com/code-423n4/2023-03-asymmetry-findings/blob/main/data/btk-Q.md) | grade-a     | Solidity |
+| Contest 225     | [Private]()| grade-a     | Solidity |
+| Caviar          | [Source](https://github.com/code-423n4/2023-04-caviar-findings/blob/main/data/btk-Q.md)    | grade-a     | Solidity |
 
 ## Contacts
 
