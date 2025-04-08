@@ -1,8 +1,4 @@
-# Btk's smart contract security portfolio
-
-Welcome to my Smart Contract Security Portfolio! In this repository, you can find all the information you need about me regarding my smart contract security skills and expertise.
-
-# About btk
+# About me
 
 I'm a smart contract security researcher with no tech background. I believe in simple processes, sharp eyes, and high standards. I have audited [Aave](https://x.com/aave), [Sushi](https://x.com/SushiSwap), [Ethena](https://x.com/ethena_labs), [LayerZero](https://x.com/LayerZero_Core), [Resolv](https://x.com/ResolvLabs), [Gains Network](https://x.com/GainsNetwork_io), [Biconomy Composability](https://x.com/biconomy) and several multi-million protocols.
 
