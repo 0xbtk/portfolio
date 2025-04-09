@@ -32,7 +32,6 @@ As a member of **Pashov Audit Group**, I’ve contributed to security audits acr
 | [Ethena Protocol](https://x.com/ethena_labs)        | [Source](https://github.com/pashov/audits/blob/master/team/md/Ethena-security-review-October.md)  |
 | [Stake Dao](https://x.com/StakeDAOHQ)        | [Source](https://github.com/pashov/audits/blob/master/team/md/LaPoste-security-review-October.md)  |
 | [Gummi](https://x.com/gummifi)        | Private  |
-| [Ulti](https://x.com/0xULTI)        | [Source](https://github.com/pashov/audits/blob/master/team/md/ULTI-security-review-November2.md)  |
 | [Ouroboros_ORX](https://x.com/Ouroboros_ORX)        | [Source](https://github.com/pashov/audits/blob/master/team/md/Ouroboros-security-review_2024-12-06.md)  |
 | [Ion](https://x.com/ionprotocol)        | Private  |
 | [Spectra Fincance](https://x.com/spectra_finance)        | Private  |
