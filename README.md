@@ -1,8 +1,8 @@
 # About me
 
-I'm a smart contract security researcher with no tech background. I believe in simple processes, sharp eyes, and high standards. I have audited [Aave](https://x.com/aave), [Sushi](https://x.com/SushiSwap), [Ethena](https://x.com/ethena_labs), [LayerZero](https://x.com/LayerZero_Core), [Resolv](https://x.com/ResolvLabs), [Gains Network](https://x.com/GainsNetwork_io), [Biconomy Composability](https://x.com/biconomy) and several multi-million protocols.
+I'm a smart contract security researcher since 2022. Over 60 audits conducted, member of [@PashovAuditGrp](https://x.com/PashovAuditGrp) and [@Bailsec](https://x.com/bailsecurity). I believe in simple processes, sharp eyes, and high standards. I have audited [Aave](https://x.com/aave), [Sushi](https://x.com/SushiSwap), [Ethena](https://x.com/ethena_labs), [LayerZero](https://x.com/LayerZero_Core), [Resolv](https://x.com/ResolvLabs), [Gains Network](https://x.com/GainsNetwork_io), [Biconomy Composability](https://x.com/biconomy) and several multi-million protocols.
 
-Interested in working together? DM me **[btktj](https://t.me/btktj)**.
+Interested in working together? DM me, Telegram: **[btktj](https://t.me/btktj)**.
 
 ### Code4rena Profile
 
