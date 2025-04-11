@@ -79,7 +79,7 @@ What people say about my work:
 
 <p align="center">
   <img src="./assets/Feedback-3.jpeg" width="250"/>
-  <img src="./assets/Feedback-4.jpeg" width="250"/>
+  <img src="./assets/Feedback-8.jpeg" width="250"/>
 </p>
 
 <p align="center">
@@ -89,7 +89,7 @@ What people say about my work:
 
 <p align="center">
   <img src="./assets/Feedback-7.jpeg" width="250"/>
-  <img src="./assets/Feedback-8.jpeg" width="250"/>
+  <img src="./assets/Feedback-4.jpeg" width="250"/>
 </p>
 
 
