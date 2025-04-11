@@ -68,6 +68,31 @@ Here are some of my highest-rated QA reports from Code4rena contests.
 | Contest 225     | [Private]()| grade-a     | Solidity |
 | Caviar          | [Source](https://github.com/code-423n4/2023-04-caviar-findings/blob/main/data/btk-Q.md)    | grade-a     | Solidity |
 
+## Feedback
+
+What people say about my work:
+
+<p align="center">
+  <img src="./assets/Feedback-1.png" width="250"/>
+  <img src="./assets/Feedback-2.jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="./assets/Feedback-3.jpeg" width="250"/>
+  <img src="./assets/Feedback-4.jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="./assets/Feedback-5.jpeg" width="250"/>
+  <img src="./assets/Feedback-6.jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="./assets/Feedback-7.jpeg" width="250"/>
+  <img src="./assets/Feedback-8.jpeg" width="250"/>
+</p>
+
+
 ## Contacts
 
 I am available for smart contract security audits. Reach out to me on:
